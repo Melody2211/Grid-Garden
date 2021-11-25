@@ -1,0 +1,8 @@
+#garden {
+    display: grid;
+   grid-template: 60% 40% / 200PX
+   }
+   #water {
+    grid-column: 1;
+   grid-row: 1;
+}
