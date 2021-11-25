@@ -1,0 +1,4 @@
+#garden {
+    display: grid;
+   grid-template: 5fr 50px/ 20% 5fr
+   }
